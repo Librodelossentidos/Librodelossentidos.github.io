@@ -380,6 +380,8 @@ img {
 
 .vista03{
 	margin-left: 375px;
+	display: inline;
+	position: absolute;
 }
 
 /* no transition on .isotope container */
