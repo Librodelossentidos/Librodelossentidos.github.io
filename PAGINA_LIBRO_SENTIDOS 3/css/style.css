@@ -87,7 +87,7 @@ h6{
 	font-weight:400;
 	text-align:center;
 	margin:0 0 60px 0;
-	line-height: 22px;
+	line-height: 24px;
 }
 p{
 	line-height:24px;
@@ -359,7 +359,7 @@ color: #fff;
 	height:350px;
 	width:350px;
 	overflow:hidden;
-	float:left;
+	float:center;
 	padding:0;
 }
 .Portfolio-box img{
@@ -369,17 +369,18 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;	
 }
 
-.Portfolio-box img:hover {
-	opacity: 0.6;
-}
-
 .Portfolio-nav li a.current{
 	background:#9c8164;
 	color:#fff;
 	text-decoration:none;
 }
+
 img {
    max-width:100%;
+}
+
+.vista03{
+	margin-left: 375px;
 }
 
 /* no transition on .isotope container */
@@ -743,7 +744,7 @@ border: 2px solid #fff;
 ---------------------------------*/
 
 .footer{
-	background:url(../img/footer-01.png);
+	background-color: #9d8466;
 	padding:35px 0 35px;
 }
 .footer-logo{
