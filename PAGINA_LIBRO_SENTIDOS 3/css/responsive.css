@@ -45,7 +45,7 @@
 
 @media only screen and (max-width: 767px) {
 	/****Mobile Landscape 480 Container 100% ****/
-	body{ font-size:12px;}
+
 	h2{ font-size:26px;}
 	h3{ font-size:14px;}
 	h6{ font-size:16px; margin-bottom:40px;}
@@ -80,8 +80,8 @@
 	.link{ font-size:14px; padding:10px 25px;}
 	.logo{ width:100px;}
 	.main-section.contact{ background-size:contain;}
-	.Portfolio-nav li a{ padding:5px 16px;}
-	.Portfolio-nav li{ display:block;}
+	.Portfolio-nav li a{ padding:10px 16px;}
+	.Portfolio-nav li{ display:inline-flex;}
 	/*.isotope-item img{ width:300px; left:50%; margin-left:-100px;}
 	.isotope-item{ width:300px; margin:0px auto;}
 	.isotope{ width:400px; margin:0px auto;}
